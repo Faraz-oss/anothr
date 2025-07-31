@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
 - 👨‍💻 All of my projects are available at [GitHub/Faraz-oss](https://github.com/Faraz-oss)
 - 💬 Ask me about **React, JavaScript, and Tailwind CSS**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **farazqureshi797@gmail.com**
 - ⚡ Fun fact: **I love solving UI problems and making mobile responsive sites**
 
 ---
